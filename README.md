@@ -1,3 +1,4 @@
 # Demo
-This is the first repositary.
+This is the first repository.
+<br>
 Author - karan
